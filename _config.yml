@@ -1,10 +1,10 @@
 # Site settings
-title: Youze (Hargen) Zheng
-email: hgzheng@ucsd.edu
+title: Weili Cao
+email: w2cao@ucsd.edu
 description: >
-  Youze (Hargen) Zheng's personal academic website, focusing on NLP, ML, and biomedical applications.
+  Weili Cao's personal academic website, focusing on NLP, ML, and biomedical applications.
 baseurl: ""
-url: "https://hgnzheng.github.io"
+url: "https://weilicao.github.io"
 
 # Build settings
 markdown: kramdown
