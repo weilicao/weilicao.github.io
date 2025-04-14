@@ -2,11 +2,11 @@
   title: "Single-Pass Document Scanning for Question Answering"
   authors:
     - name: "Weili Cao*"
-      is_self: false
+      is_self: true
     - name: "Jianyou Wang*"
       is_self: false
     - name: "Youze Zheng"
-      is_self: true
+      is_self: false
     - name: "Longtian Bao"
       is_self: false
     - name: "Qirui Zheng"
@@ -41,11 +41,11 @@
     - name: "Jianyou Wang*"
       is_self: false
     - name: "Weili Cao*"
-      is_self: false
+      is_self: true
     - name: "Longtian Bao"
       is_self: false
     - name: "Youze Zheng"
-      is_self: true
+      is_self: false
     - name: "Gil Pasternak"
       is_self: false
     - name: "Kaicheng Wang"
