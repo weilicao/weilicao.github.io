@@ -72,3 +72,124 @@
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2411.18831}, 
 }"
+
+- id: "EvidenceBench"
+  title: "EvidenceBench: A Benchmark for Extracting Evidence from Biomedical Papers"
+  authors:
+    - name: "Jianyou Wang*"
+      is_self: false
+    - name: "Weili Cao*"
+      is_self: true
+    - name: "Kaicheng Wang"
+      is_self: false
+    - name: "Xiaoyue Wang"
+      is_self: false
+    - name: "Ashish Dalvi"
+      is_self: false
+    - name: "Gino Prasad"
+      is_self: false
+    - name: "Qishan Liang"
+      is_self: false
+    - name: "Hsuan-lin Her"
+      is_self: false
+    - name: "Mingwang"
+      is_self: false
+    - name: "Qin Yang"
+      is_self: false
+    - name: "Gene W. Yeo"
+      is_self: false
+    - name: "David E Neal"
+      is_self: false
+    - name: "Maxim Khan"
+      is_self: false
+    - name: "Christopher D. Rosin"
+      is_self: false
+    - name: "Ramamohan Paturi"
+      is_self: false
+    - name: "Leon Bergen"
+      is_self: false
+  venue: "arXiv Preprint, 2024"
+  links:
+    - name: "Paper"
+      url: "https://arxiv.org/abs/2410.02738"
+    - name: "Code"
+      url: "https://github.com/EvidenceBench/EvidenceBench"
+  tldr: "A comprehensive benchmark designed to evaluate the ability of models to extract supporting evidence for biomedical claims from research papers."
+  citation: "@misc{wang2024evidencebench,
+      title={EvidenceBench: A Benchmark for Extracting Evidence from Biomedical Papers}, 
+      author={Jianyou Wang and Weili Cao and Kaicheng Wang and Xiaoyue Wang and Ashish Dalvi and Gino Prasad and Qishan Liang and Hsuan-lin Her and Mingwang and Qin Yang and Gene W. Yeo and David E Neal and Maxim Khan and Christopher D. Rosin and Ramamohan Paturi and Leon Bergen},
+      year={2024},
+      eprint={2410.02738},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2410.02738}
+}"
+
+- id: "IR2"
+  title: "IR2: Information Regularization for Information Retrieval"
+  authors:
+    - name: "Jianyou Wang*"
+      is_self: false
+    - name: "Kaicheng Wang*"
+      is_self: false
+    - name: "Xiaoyue Wang*"
+      is_self: false
+    - name: "Weili Cao"
+      is_self: true
+    - name: "Ramamohan Paturi"
+      is_self: false
+    - name: "Leon Bergen"
+      is_self: false
+  venue: "LREC-COLING, 2024"
+  links:
+    - name: "Paper"
+      url: "https://aclanthology.org/2024.lrec-main.551/"
+  tldr: "We introduce a new regularization method that improves the training of dual-encoder retrieval models by regularizing the information capacity of document representations."
+  citation: "@inproceedings{wang-etal-2024-ir2,
+    title = "{IR}2: Information Regularization for Information Retrieval",
+    author = "Wang, Jianyou  and
+      Wang, Kaicheng  and
+      Wang, Xiaoyue  and
+      Cao, Weili  and
+      Paturi, Ramamohan  and
+      Bergen, Leon",
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+    month = may,
+    year = "2024",
+    address = "Torino, Italia",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.lrec-main.551",
+    pages = "6296--6304"
+}"
+
+- id: "BIRCO"
+  title: "BIRCO: A Benchmark of Information Retrieval Tasks with Complex Objectives"
+  authors:
+    - name: "Xiaoyue Wang*"
+      is_self: false
+    - name: "Jianyou Wang*"
+      is_self: false
+    - name: "Weili Cao*"
+      is_self: true
+    - name: "Kaicheng Wang*"
+      is_self: false
+    - name: "Ramamohan Paturi"
+      is_self: false
+    - name: "Leon Bergen"
+      is_self: false
+  venue: "arXiv Preprint, 2024"
+  links:
+    - name: "Paper"
+      url: "https://arxiv.org/abs/2402.14151"
+    - name: "Hugging Face"
+      url: "https://huggingface.co/datasets/BIRCO/BIRCO"
+  tldr: "We present BIRCO, a new benchmark featuring nine information retrieval tasks that require models to understand complex objectives beyond simple semantic similarity."
+  citation: "@misc{wang2024birco,
+      title={BIRCO: A Benchmark of Information Retrieval Tasks with Complex Objectives}, 
+      author={Xiaoyue Wang and Jianyou Wang and Weili Cao and Kaicheng Wang and Ramamohan Paturi and Leon Bergen},
+      year={2024},
+      eprint={2402.14151},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR},
+      url={https://arxiv.org/abs/2402.14151}
+}"
