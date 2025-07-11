@@ -111,7 +111,7 @@
   venue: "arXiv Preprint, 2024"
   links:
     - name: "Paper"
-      url: "https://arxiv.org/abs/2410.02738"
+      url: "https://arxiv.org/abs/2504.18736"
     - name: "Code"
       url: "https://github.com/EvidenceBench/EvidenceBench"
   tldr: "A comprehensive benchmark designed to evaluate the ability of models to extract supporting evidence for biomedical claims from research papers."
@@ -119,10 +119,10 @@
       title={EvidenceBench: A Benchmark for Extracting Evidence from Biomedical Papers}, 
       author={Jianyou Wang and Weili Cao and Kaicheng Wang and Xiaoyue Wang and Ashish Dalvi and Gino Prasad and Qishan Liang and Hsuan-lin Her and Mingwang and Qin Yang and Gene W. Yeo and David E Neal and Maxim Khan and Christopher D. Rosin and Ramamohan Paturi and Leon Bergen},
       year={2024},
-      eprint={2410.02738},
+      eprint={2504.18736},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2410.02738}
+      url={https://arxiv.org/abs/2504.18736}
 }"
 
 - id: "IR2"
@@ -143,7 +143,7 @@
   venue: "LREC-COLING, 2024"
   links:
     - name: "Paper"
-      url: "https://aclanthology.org/2024.lrec-main.551/"
+      url: "https://aclanthology.org/2024.lrec-main.810/"
   tldr: "We introduce a new regularization method that improves the training of dual-encoder retrieval models by regularizing the information capacity of document representations."
   citation: "@inproceedings{wang-etal-2024-ir2,
     title = {{IR}2: Information Regularization for Information Retrieval},
@@ -153,8 +153,8 @@
     year = {2024},
     address = {Torino, Italia},
     publisher = {ELRA and ICCL},
-    url = {https://aclanthology.org/2024.lrec-main.551},
-    pages = {6296--6304}
+    url = {https://aclanthology.org/2024.lrec-main.810/},
+    pages = {9261--9284}
 }"
 
 - id: "BIRCO"
