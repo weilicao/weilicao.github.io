@@ -17,12 +17,12 @@
       is_self: false
     - name: "Leon Bergen"
       is_self: false
-  venue: "Preprint, 2025"
+  venue: "COLM, 2025 (Oral)"
   links:
     - name: "Paper"
       url: "https://arxiv.org/abs/2504.03101"
     - name: "Code"
-      url: "https://github.com/MambaRetriever/MambaRetriever"
+      url: "https://github.com/weilicao/SPScanner"
   tldr: "We trained State Space Models (Mamba-2) for long-context Q&A, achieving performance comparable to GPT-4o on extremely long documents while being more computationally efficient."
   citation: "@misc{cao2025singlepassdocumentscanningquestion,
       title={Single-Pass Document Scanning for Question Answering}, 
@@ -56,7 +56,7 @@
       is_self: false
     - name: "Leon Bergen"
       is_self: false
-  venue: "arXiv Preprint, 2024"
+  venue: "EMNLP, 2025"
   links:
     - name: "Paper"
       url: "https://arxiv.org/abs/2411.18831"
@@ -108,7 +108,7 @@
       is_self: false
     - name: "Leon Bergen"
       is_self: false
-  venue: "arXiv Preprint, 2024"
+  venue: "COLM, 2025"
   links:
     - name: "Paper"
       url: "https://arxiv.org/abs/2504.18736"
