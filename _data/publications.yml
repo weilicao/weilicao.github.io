@@ -5,9 +5,9 @@
       is_self: true
     - name: "Jianyou Wang*"
       is_self: false
-    - name: "Youze Zheng"
+    - name: "Youze Zheng*"
       is_self: false
-    - name: "Longtian Bao"
+    - name: "Longtian Bao*"
       is_self: false
     - name: "Qirui Zheng"
       is_self: false
