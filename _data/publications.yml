@@ -1,3 +1,32 @@
+- id: "CodingAgents"
+  title: "Coding Agents are Effective Long-Context Processors"
+  authors:
+    - name: "Weili Cao"
+      is_self: true
+    - name: "Xunjian Yin"
+      is_self: false
+    - name: "Bhuwan Dhingra"
+      is_self: false
+    - name: "Shuyan Zhou"
+      is_self: false
+  venue: "arXiv Preprint, 2026"
+  links:
+    - name: "Paper"
+      url: "https://arxiv.org/abs/2603.20432"
+    - name: "Code"
+      url: "https://github.com/weilicao/Coding_Agents_are_Effective_Long_Context_Processors"
+  tldr: "We show that off-the-shelf coding agents can serve as powerful long-context processors, outperforming published SOTA by 17.3% avg across 5 benchmarks."
+  citation: "@misc{cao2026codingagents,
+      title={Coding Agents are Effective Long-Context Processors},
+      author={Weili Cao and Xunjian Yin and Bhuwan Dhingra and Shuyan Zhou},
+      year={2026},
+      eprint={2603.20432},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2603.20432}
+}"
+
+
 - id: "SPS"
   title: "Single-Pass Document Scanning for Question Answering"
   authors:
