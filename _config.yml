@@ -1,8 +1,8 @@
 # Site settings
 title: Weili Cao
-email: w2cao@ucsd.edu
+email: weili.cao@duke.edu
 description: >
-  Weili Cao's personal academic website, focusing on NLP, ML, and biomedical applications.
+  Weili Cao's personal academic website, focusing on NLP, LLM agents, long-context processing, information retrieval, and information extraction.
 baseurl: ""
 url: "https://weilicao.github.io"
 
